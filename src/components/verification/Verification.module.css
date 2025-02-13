@@ -61,9 +61,6 @@ input[type="number"]::-webkit-outer-spin-button {
   align-self: center;
 }
 
-.inputForm {
-  border: 1px solid red;
-}
 
 .container .inputs {
   display: flex;
